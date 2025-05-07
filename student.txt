@@ -1,0 +1,4 @@
+"sname" "sroll" "sage" "ssex" "branch" "m1" "m2" "m3" "m4" "m5"
+"1" "raja" 101 19 "male" "cse" 90 95 85 70 67
+"2" "soma" 103 20 "male" "mech" 79 85 25 40 67
+"3" "roja" 104 18 "female" "eee" 88 90 85 60 89
